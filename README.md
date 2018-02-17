@@ -1,5 +1,5 @@
-# HackerEarth-DeepLearning-Challenge-2-TDDNet-Implementation
-Thoracic Disease Detection Network inspired by the ChextNet architecture [ Stanford ML group ]
+# HackerEarth-DeepLearning-Challenge-2-TDDNet-Implementation ( Under Construction)
+Thoracic Disease Detection Network inspired by the ChextNet architecture [ Stanford ML group ]. 
 
 
 ### Q1. A Brief on the approach used to solve the Data Problem ?
